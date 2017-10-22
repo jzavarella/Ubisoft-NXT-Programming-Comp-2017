@@ -1,0 +1,14 @@
+﻿  PowerUp.cpp
+d:\ubisoft\gametest\gametest\maths.h(8): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\app\appsettings.h(60): note: see previous definition of 'PI'
+d:\ubisoft\gametest\gametest\powerup.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\ubisoft\gametest\gametest\powerup.cpp(58): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Laser.cpp
+d:\ubisoft\gametest\gametest\maths.h(8): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\app\appsettings.h(60): note: see previous definition of 'PI'
+  Generating Code...
+app.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  GameTest.vcxproj -> D:\UBISOFT\GameTest\x64\Debug\GameTest.exe
+  GameTest.vcxproj -> D:\UBISOFT\GameTest\x64\Debug\GameTest.pdb (Full PDB)
+  D:\UBISOFT\GameTest\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied

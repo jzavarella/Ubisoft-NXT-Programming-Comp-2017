@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  app.cpp
+  main.cpp
+  SimpleController.cpp
+  SimpleSound.cpp
+  Asteroid.cpp
+d:\ubisoft\gametest\gametest\app\AppSettings.h(60): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\Maths.h(4): note: see previous definition of 'PI'
+Asteroid.cpp(74): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  GameTest.cpp
+d:\ubisoft\gametest\gametest\Maths.h(4): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\app\AppSettings.h(60): note: see previous definition of 'PI'
+GameTest.cpp(45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+GameTest.cpp(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GameTest.cpp(97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+GameTest.cpp(105): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GameTest.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameTest.cpp(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+GameTest.cpp(147): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Laser.cpp
+d:\ubisoft\gametest\gametest\Maths.h(4): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\app\AppSettings.h(60): note: see previous definition of 'PI'
+  Maths.cpp
+Maths.cpp(15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Maths.cpp(17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+Maths.cpp(21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Maths.cpp(24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Maths.cpp(28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Ship.cpp
+d:\ubisoft\gametest\gametest\Maths.h(4): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\app\AppSettings.h(60): note: see previous definition of 'PI'
+Ship.cpp(115): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Ship.cpp(116): warning C4129: 'p': unrecognized character escape sequence
+Ship.cpp(157): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Ship.cpp(181): warning C4305: '=': truncation from 'double' to 'float'
+Ship.cpp(184): warning C4305: '=': truncation from 'double' to 'float'
+  ShipExplosion.cpp
+d:\ubisoft\gametest\gametest\app\AppSettings.h(60): warning C4005: 'PI': macro redefinition
+  d:\ubisoft\gametest\gametest\Maths.h(4): note: see previous definition of 'PI'
+  Generating code
+  All 764 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameTest.vcxproj -> D:\UBISOFT\GameTest\x64\Release\GameTest.exe
+  GameTest.vcxproj -> D:\UBISOFT\GameTest\x64\Release\GameTest.pdb (Full PDB)
+  D:\UBISOFT\GameTest\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
